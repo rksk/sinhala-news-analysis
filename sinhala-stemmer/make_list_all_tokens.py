@@ -11,7 +11,7 @@ Output:
 		this will give a unique list of all the sinhala tokens in the given corpus
 
 Sajith Ekanayaka
-01st Oct 2018
+01st Oct 2017
 """
 
 # -*- coding: utf-8 -*-

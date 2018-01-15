@@ -19,7 +19,7 @@ Remarks:
 	Also I ordered the list of suffixes according to descending order their lenghts to improve accuracy.
 
 Sajith Ekanayaka
-11th Sept 2018
+11th Sept 2017
 """
 
 # -*- coding: utf-8 -*-
