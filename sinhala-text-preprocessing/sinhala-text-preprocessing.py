@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import GaussianNB
+from sklearn.naive_bayes import BernoulliNB
+from sklearn import linear_model
+
 import codecs
 import nltk
 import re
