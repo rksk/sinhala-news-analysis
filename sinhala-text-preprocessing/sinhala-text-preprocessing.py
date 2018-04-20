@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+import codecs
+import nltk
+import re
+
 stopwords = "../StopWords.txt"
 stem_dictionary = "../stem_dictionary.txt"
 
