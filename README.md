@@ -4,7 +4,7 @@ This study focused on analysing Sinhala news reports published online to extract
 
 As a contribution to the future research on Sinhala NLP, most of the resources developed under this project like code snippets, datasets and other lexical resources are made publicly available in this repository.
 
-(The study will be presented at [Ruhuna International Science and Technology Conference 
-(RISTCON 2018)](http://www.sci.ruh.ac.lk/conference/ristcon2018/) on 15th February 2018)
+The study was presented at [Ruhuna International Science and Technology Conference 
+(RISTCON 2018)](http://www.sci.ruh.ac.lk/conference/ristcon2018/) on 15th February 2018.
 
 Keywords: Sinhala language, Natural language processing, Sinhala NLP, Feature selection, Text classification, Text clustering
